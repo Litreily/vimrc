@@ -11,3 +11,14 @@ set nu
 
 " Set highlight of current line
 set cul
+
+" map fuzzy input
+cnorea W w
+cnorea W! w!
+cnorea Wa wa
+cnorea WA wa
+cnorea Q q
+cnorea Q! q!
+cnorea Qa qa
+cnorea QA qa
+
