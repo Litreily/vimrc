@@ -15,6 +15,8 @@ set cul
 " map fuzzy input
 cnorea W w
 cnorea W! w!
+cnorea Wq wq
+cnorea WQ wq
 cnorea Wa wa
 cnorea WA wa
 cnorea Q q
