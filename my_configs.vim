@@ -24,3 +24,8 @@ cnorea Q! q!
 cnorea Qa qa
 cnorea QA qa
 
+" Set colorcolumn
+set colorcolumn=81
+
+" Set taglist
+let g:Tlist_Exit_OnlyWindow = 1
