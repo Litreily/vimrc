@@ -25,7 +25,7 @@ cnorea Qa qa
 cnorea QA qa
 
 " Set colorcolumn
-set colorcolumn=81
+set colorcolumn=121
 
 " Set taglist
 let g:Tlist_Exit_OnlyWindow = 1
